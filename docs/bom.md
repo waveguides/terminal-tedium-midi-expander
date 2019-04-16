@@ -12,7 +12,7 @@ This is the BOM for Terminal Tedium Midi Expander
 | 6      | 2   | Resistor | | | Element14 | 1127075 | 47K  | |
 | 7      | 1   | Diode | Vishay | 1N4148 | Element14 | 1612346 | 1N4148 Diode | |
 | 8      | 1   | Capacitor | | | Element14 | 9750878 | 0.1µF | |
-| 9      | 4   | Spacers | | | Element14 | 1733406 | Spacer, PCB, Round, Nylon 6.6, 5x8mm | |
+| 9      | 4   | Spacers | | | Element14 | 1733407 | Spacer, PCB, Round, Nylon 6.6, 5x10mm | |
 | 10     | 4   | Bolts | | | | | | |
 | 11     | 4   | Nuts | | | | | | |
 | 12     | 2   | Washers | | | | | | |
